@@ -1,2 +1,2 @@
-# face-detector
-A web app for Face detection using html,css,js,and face-api 
+# face and Eye detector
+Made by using python,haarcascade,opencv and numpy
